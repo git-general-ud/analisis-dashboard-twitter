@@ -6,9 +6,7 @@
 <hr>
 <hr>
  <h1 > Analisis </h1>
- casos de uso
-
-generales
+ casos de uso generales
 
 1)buscar información sobre los twetts
 
