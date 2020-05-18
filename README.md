@@ -6,8 +6,16 @@
 <hr>
 <hr>
  <h1 > Analisis </h1>
+ casos de uso
+
+generales
+
+1)buscar información sobre los twetts
+
+2)cambio y visualización de privacidad
+
 <hr>
-<h1 >Estadisticas (Dashboard)</h1><p> <li></li></p>
+<h1 >Estadisticas (Dashboard)</h1><p> <li>generar una division en subcasos de uso de (1) </li></p>
 <hr>
-<h1 > Control (Privacidad) </h1><p> <li></li></p>
+<h1 > Control (Privacidad) </h1><p> <li>generar una division en subcasos de uso de (2)</li></p>
 <hr>
