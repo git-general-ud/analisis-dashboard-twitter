@@ -1,5 +1,5 @@
 # analisis-dashboard-twitter
-
+<hr>
 <table>
   <td>
     <tr>
@@ -24,3 +24,4 @@
     </tr>
   </td>
 </table>
+<hr>
