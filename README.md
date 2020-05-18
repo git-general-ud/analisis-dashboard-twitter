@@ -2,6 +2,7 @@
 
 <hr>
  <h1 > David Camilo Franco - 20171020090
+ <h1><strong>Juan Sebastian Moreno - 20152020097</strong></h1>
 <hr>
 <hr>
  <h1 > dashboard</h1> <p> <li>ya</li></p>
